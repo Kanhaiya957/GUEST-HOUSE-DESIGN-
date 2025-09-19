@@ -22,9 +22,10 @@
 - The integration of these software tools resulted in an accurate and efficient building design. 
 - The structural safety, interior aesthetics, and functional space utilization were well-balanced. 
 - Primavera’s scheduling and cost estimation ensured the timely and cost-effective execution of the project. 
-- The collaborative workflow between AutoCAD, Revit, STAAD.Pro, SketchUp, and Primavera streamlined the entire design and construction process. 
-
+- The collaborative workflow between AutoCAD, Revit, STAAD.Pro, SketchUp, and Primavera streamlined the entire design and construction process.
+- 
 ## 🖼 Screenshots / Outputs
+![WhatsApp Image 2025-09-19 at 21 38 32_6b400374](https://github.com/user-attachments/assets/c98fe264-c5c0-4f08-aa7f-474cc9cd4a22)
 ![WhatsApp Image 2025-09-15 at 09 22 18_6492e365](https://github.com/user-attachments/assets/9e012b87-3db5-40e8-88b5-5e4bf261b1f7)
 ![WhatsApp Image 2025-09-15 at 09 22 16_fc4054b7](https://github.com/user-attachments/assets/96c73021-7dd5-4675-b5a2-567a914c1f09)
 ![WhatsApp Image 2025-09-15 at 09 22 17_c792c7cb](https://github.com/user-attachments/assets/ee3492a5-4b2a-448a-94df-41f5de25071e)
